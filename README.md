@@ -31,7 +31,6 @@ To run the linter and fix files according to defined rules, use the following co
 npm run lint
 ```
 
-Created by dark0
 
 #Grazie
 ![screen](https://64.media.tumblr.com/4f84f149bcf61b8cb353386d2a2d025d/30c29df4d01babda-12/s1280x1920/d97964bc7d259f5ae3f6035707982579bae01cd1.gif)
